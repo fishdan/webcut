@@ -2,7 +2,7 @@
 /*
 Plugin Name: WebCut - URL Shortener
 Description: A simple URL shortener plugin for WordPress.
-Version: 1.0
+Version: 1.1.0
 Author: Your Name
 */
 
